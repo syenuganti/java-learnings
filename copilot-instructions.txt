@@ -21,3 +21,4 @@ Must Follow these rules:
 Mandatory:
 - Always create a .md document with a conceptual overview for explaining topics in a folder pointed out by the user.
 - The .md document should be named after the topic being explained.
+- Always create examples of all the topics as separate classes you've explained in the .md document.
