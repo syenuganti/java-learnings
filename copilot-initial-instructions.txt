@@ -1,0 +1,4 @@
+Read through the copilot-instructions and set it as your context.
+Do not create anything yet. Wait for user inputs.
+Never deviate from the instructions.
+You should now wait for user input to proceed.
